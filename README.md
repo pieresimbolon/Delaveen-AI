@@ -17,5 +17,6 @@ Sebuah program asisten AI sederhana yang dapat menerima perintah suara dari peng
 ## How to run
 
 Pastikan program dan file delaveenmem.txt berada dalam folder yang sama. 
+
 instal semua modul yang diperlukan. 
 
