@@ -1,7 +1,6 @@
 # Delaveen-AI
-Asisten AI yang dibuat menggunakan GPT dan Eleven Labs
 
-ini adalah sebuah program asisten AI sederhana yang dapat menerima perintah suara dari pengguna dan melakukan berbagai tugas. Dengan menggunakan pustaka SpeechRecognition, program dapat mendengarkan perintah yang diucapkan melalui mikrofon. Perintah tersebut kemudian dikenali menggunakan Google Speech Recognition API.
+Sebuah program asisten AI sederhana yang dapat menerima perintah suara dari pengguna dan melakukan berbagai tugas. Dengan menggunakan pustaka SpeechRecognition, program dapat mendengarkan perintah yang diucapkan melalui mikrofon. Perintah tersebut kemudian dikenali menggunakan Google Speech Recognition API.
 ## How it works
 
 - Setelah menjalankan program dan konsol menampilkan teks "listening...", ucapkan kata pengaktif yang telah Anda tentukan, diikuti dengan perintah user.
